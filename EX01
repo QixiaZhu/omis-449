@@ -1,28 +1,42 @@
-Chapter 1
+**Chapter 1**
 
 Why is the CPU the most important component in a computer?
+- Because CUP is the part that actually runs or executes the programs.
 
 What number does a bit that is turned on represent?
+- 1
 
 What number does a bit that is turned off represent?
+-0
 
 What would you call a device that works with binary data?
+- A digital device.
 
 What are the words that make up a high-level programming language called?
+- Keywords, or resereved words.
 
 What are the short words that are used in assembly language called?
+- Mnemonics.
 
 What is the difference between a compiler and an interpreter?
+- An interpreter can both translate and exectue the instructions in a high-level language program, where a complier can only translate 
+  a high-level language program to a separate machine language for CUP to read and execute.
 
 What type of software controls the internal operations of the computer’s hardware?
+- The system software, specifically the operating systems.
 
 What is pseudocode?
+- An algorithm that is written in plain English.
 
 What is a flowchart?
+- A diagram that graphically depicts the steps of an algorithm.
 
 When a program runs in a text-based environment, such as a command line interface, what determines the order in which things happen?
+- The programs.
 
 What does a class specify about an object?
+- A class describe a particular type of an object.
 
 Can you use C# alone to perform advanced operations such as creating GUIs, reading data from a file, or working with databases? Why or why not?
-
+- No, because C# is a language that only provide you the basic keywords and operators for creating a program. 
+  So, C# alone cannot create GUIs, read data from a file, or work with database.
